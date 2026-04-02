@@ -1,0 +1,10 @@
+.manin{
+    font: bold;
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 20px;
+}
